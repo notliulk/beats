@@ -50,7 +50,7 @@ on the [elastic.co site](https://www.elastic.co/guide/):
 * [Winlogbeat](https://www.elastic.co/guide/en/beats/winlogbeat/current/index.html)
 
 
-## Getting Help
+## Getting Help  sdsdssd
 
 If you need help or hit an issue, please start by opening a topic on our
 [discuss forums](https://discuss.elastic.co/c/beats). Please note that we
